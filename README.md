@@ -1,5 +1,5 @@
 # digit-recognition
-Trained only for printed chacters
+Trained only for printed characters
 
 A k-nearest neighbour (knn) implimentation using opencv 3.0 via c++
 
